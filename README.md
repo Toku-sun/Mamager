@@ -1,1 +1,1 @@
-# Mamager
+# Manager
